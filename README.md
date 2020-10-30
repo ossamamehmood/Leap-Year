@@ -1,2 +1,3 @@
-# Leap-Year
-Leap Year Checker or Finder
+# L E A P   Y E A R
+
+Leap Year Checker OR Finder
